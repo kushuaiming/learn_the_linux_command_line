@@ -1,0 +1,54 @@
+<html>
+     <head>
+          <title>System Information Report For xuming-Lenovo-Legion-Y9000X-2020</title>
+     </head>
+     <body>
+          <h1>System Information Report For xuming-Lenovo-Legion-Y9000X-2020</h1>
+          <p>Generated 04/29/2023 10:32:43 AM CST, by root</p>
+          <h2>System Uptime</h2>
+<pre> 10:32:43 up 1 day,  1:04,  1 user,  load average: 0.50, 0.31, 0.23</pre>
+          <h2>Disk Space Utilization</h2>
+<pre>Filesystem      Size  Used Avail Use% Mounted on
+udev             16G     0   16G   0% /dev
+tmpfs           3.2G  2.4M  3.2G   1% /run
+/dev/nvme0n1p6  302G   77G  210G  27% /
+tmpfs            16G  129M   16G   1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs            16G     0   16G   0% /sys/fs/cgroup
+/dev/loop1      219M  219M     0 100% /snap/gnome-3-34-1804/90
+/dev/loop2       56M   56M     0 100% /snap/core18/2721
+/dev/loop4      2.2M  2.2M     0 100% /snap/gnome-calculator/926
+/dev/nvme0n1p1  256M   38M  219M  15% /boot/efi
+/dev/loop6      640K  640K     0 100% /snap/gnome-logs/112
+/dev/loop0       73M   73M     0 100% /snap/core22/607
+/dev/loop8      128K  128K     0 100% /snap/bare/5
+/dev/loop7       50M   50M     0 100% /snap/snapd/18596
+/dev/loop10      73M   73M     0 100% /snap/core22/583
+/dev/loop9      350M  350M     0 100% /snap/gnome-3-38-2004/137
+/dev/loop12     2.7M  2.7M     0 100% /snap/gnome-system-monitor/178
+/dev/loop13     1.5M  1.5M     0 100% /snap/gnome-system-monitor/181
+/dev/loop14     768K  768K     0 100% /snap/gnome-logs/115
+/dev/loop15      64M   64M     0 100% /snap/core20/1828
+/dev/loop16     461M  461M     0 100% /snap/gnome-42-2204/87
+/dev/loop17      82M   82M     0 100% /snap/gtk-common-themes/1534
+/dev/loop19     512K  512K     0 100% /snap/gnome-characters/781
+/dev/loop20      92M   92M     0 100% /snap/gtk-common-themes/1535
+/dev/loop21     347M  347M     0 100% /snap/gnome-3-38-2004/119
+/dev/loop22      56M   56M     0 100% /snap/core18/2714
+/dev/loop23      64M   64M     0 100% /snap/core20/1852
+/dev/loop24      54M   54M     0 100% /snap/snapd/18933
+tmpfs           3.2G   24K  3.2G   1% /run/user/121
+tmpfs           3.2G   40K  3.2G   1% /run/user/1000
+/dev/loop25     512K  512K     0 100% /snap/gnome-characters/785
+/dev/loop26     2.2M  2.2M     0 100% /snap/gnome-calculator/934
+/dev/loop27     461M  461M     0 100% /snap/gnome-42-2204/99
+/dev/loop3      219M  219M     0 100% /snap/gnome-3-34-1804/93</pre>
+          <h2>Home Space Utilization (All Users)</h2>
+<h3>/home/xuming</h3>
+<pre>
+    Dirs     Files      Size
+    ----     -----      ----
+( /home/xuming -type d | wc -l)    881225       44G
+</pre>
+     </body>
+</html>
